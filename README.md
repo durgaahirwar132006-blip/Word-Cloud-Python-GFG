@@ -6,17 +6,15 @@
 For Example: If we analyze customer reviews of a movie like "good", "bad" or "average" might be bigger if they are mentioned many times. These are useful because they:
 
 * Quickly show the most common words in text data
-Help to understand what people are talking about in large text files
-Make text data look visually appealing
-Allow easy identification of important words
-Implementing Word Cloud in Python
+* Help to understand what people are talking about in large text files
+* Make text data look visually appealing
+* Allow easy identification of important words
+
+# Implementing Word Cloud in Python
+
 We will be using IMDB dataset and this dataset contains 50,000 movie reviews in CSV format. We will focus on the review column which contains the text data of the movie reviews. Below is the step by step implementation:
 
-Step 1: Loading the Dataset
-Let's load the dataset using pandas. 
-
-You can download dataset from here.
-
+## Step 1: Loading the Dataset
 
 import pandas as pd
 
