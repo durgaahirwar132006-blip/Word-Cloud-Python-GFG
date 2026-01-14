@@ -10,7 +10,7 @@ This project demonstrates how to generate a Word Cloud using Python by analyzing
 - WordCloud Library
 
 ## 📂 Dataset
-IMDB Movie Reviews Dataset (50,000 reviews)
+IMDB Movie Reviews Dataset (5000 reviews)
 
 ## 🚀 What I Learned
 - Loading and cleaning text data
